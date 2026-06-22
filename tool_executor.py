@@ -1,5 +1,3 @@
-from pdb import run
-from re import search
 from dotenv import load_dotenv
 
 load_dotenv()
